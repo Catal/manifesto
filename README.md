@@ -13,3 +13,6 @@
 - [エンジニア](engineer.ja.md)
 - [デザイナー](designer.ja.md)
 - [PM/ディレクター](product_manager.ja.md)
+
+## エントリー
+[Wantedly](https://www.wantedly.com/companies/catal/projects)
