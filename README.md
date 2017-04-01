@@ -8,3 +8,8 @@
 1. Deploy (or Die): 使われるプロダクトを早くリリースすることに集中する
 1. Simple: 複雑な問題に対してシンプルな解決策を提供する
 1. Wild: 迷ったら原点に立ち返って、よりワイルドな道を選ぶ
+
+## Job Descriptions
+- [エンジニア](engineer.ja.md)
+- [デザイナー](designer.ja.md)
+- [PM/ディレクター](product_manager.ja.md)
