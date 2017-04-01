@@ -23,9 +23,10 @@
 ## 求めるスキル 
 ### 必須スキル
 - ウェブサービスの開発経験 （Ruby on Rails）
+- Gitの利用経験（github workflow）
+
 ### あると望ましいスキル 
 - Javascriptの知識 
 - Linuxサーバの知識、CUI操作 
 - Amazon Web Servicesを利用したインフラ運用経験 
 - SQL, インデックス,テーブル設計などDBに関する知識 
-- Gitの利用経験（github workflow）
